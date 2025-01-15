@@ -24,7 +24,8 @@ To run this game, follow these steps:
 
 - Python 3.10 or above
 - Pygame library
-##Note 
+
+## Note 
 Go to realese and by double clicking on file you can play the game
 
 
