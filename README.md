@@ -20,9 +20,13 @@ This is  a simple yet fun game built using Python and Pygame. This project bring
 ## Installation
 To run this game, follow these steps:
 
-### Prerequisites
+### Prerequisite
+
 - Python 3.10 or above
 - Pygame library
+##Note 
+Go to realese and by double clicking on file you can play the game
+
 
 ## Contributing
 Feel free to fork this repository, make your own modifications, and submit a pull request. Suggestions and improvements are always welcome!
